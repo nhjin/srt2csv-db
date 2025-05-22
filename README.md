@@ -16,8 +16,6 @@
 
 ##   📁 프로젝트 구조
   ``` bash
-  복사
-  편집
   srt2csv-db/
   ├── eng_sub.csv             # 변환된 영어 자막 CSV 파일
   ├── korea_sub.csv           # 변환된 한국어 자막 CSV 파일
